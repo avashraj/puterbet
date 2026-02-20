@@ -12,3 +12,5 @@ wheels/
 # NBA DB and collection logs
 nba.db
 logs/
+
+.cursor/
