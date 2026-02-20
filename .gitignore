@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# NBA DB and collection logs
+nba.db
+logs/
